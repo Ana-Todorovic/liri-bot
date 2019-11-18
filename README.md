@@ -6,7 +6,7 @@ To look up artists use the following command:
 node liri.js concert-this <artist/band name here>
 
 For example:
-![Concert](images/concerts.png)
+url(images/concerts.png)
 
 To look up songs use the following command:
 node liri.js spotify-this-song <song name here>
